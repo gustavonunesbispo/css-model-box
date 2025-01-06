@@ -1,12 +1,14 @@
 /* Border */
-
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/border */
 
 .border {
-    border-bottom: 5px solid darkorchid;
+    border: 5px solid darkorchid;
 }
 
-div, span {
-    width: 360px;
-    height: 45px;
+/* Margin */
+/* Margin-colapse */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/margin */
+
+.margin {
+    margin: 45px;
 }
