@@ -1,13 +1,7 @@
-div {
-    border: solid;
-    width: 200px;
-    height: 200px;
-    padding: 20px;
-    margin: 20px;
-}
+/* Border */
 
-span {
-    border: solid;
-    margin: 20px;
-    padding: 20px;
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/border */
+
+.border {
+    border-bottom: 5px solid darkorchid;
 }
