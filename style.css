@@ -5,3 +5,9 @@ div {
     padding: 20px;
     margin: 20px;
 }
+
+span {
+    border: solid;
+    margin: 20px;
+    padding: 20px;
+}
