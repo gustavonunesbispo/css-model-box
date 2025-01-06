@@ -2,13 +2,22 @@
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/border */
 
 .border {
-    border: 5px solid darkorchid;
+    border: 1px solid darkorchid;
 }
 
 /* Margin */
 /* Margin-colapse */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/margin */
 
-.margin {
-    margin: 45px;
+/* Padding */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/padding */
+
+div {
+    width: 200px;
+    height: 100px;
+}
+
+.padding {
+    box-sizing: border-box;
+    padding: 40px;
 }
