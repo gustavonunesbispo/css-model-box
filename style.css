@@ -5,3 +5,8 @@
 .border {
     border-bottom: 5px solid darkorchid;
 }
+
+div, span {
+    width: 360px;
+    height: 45px;
+}
